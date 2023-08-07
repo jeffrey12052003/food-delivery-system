@@ -38,6 +38,4 @@
 <img src="./custom-pizza.png" width='800' height='auto'>
 <br>
 
-### LINK :
 
-https://rio-ci4k.onrender.com/
